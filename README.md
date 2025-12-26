@@ -27,7 +27,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **About Me**
 
 - 🔭 I'm currently working on **Full Stack Web Development (MERN Stack)**
-- 🌱 I'm currently learning **Industry 4.0 and IIoT**
 - 👯 I'm looking to collaborate on **Innovative UI/UX Projects**
 - 💬 Ask me about **Java, Python, React.js, and Data Analytics**
 - 📫 How to reach me: **nandhakumarkb2005@gmail.com**
