@@ -61,25 +61,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **GitHub Analytics**
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=nandhakumar-kb&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhakumar-kb&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=nandhakumar-kb&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-</div> 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📈 Contribution Graph
-<div align="center">
-  <img alt="Nandha Kumar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nandhakumar-kb&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
